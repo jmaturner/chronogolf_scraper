@@ -1,0 +1,7 @@
+It is HIGHLY advisable to use a python virtual environment for this.
+1)pip install selenium
+(I had to pip3 install -U selenium)
+2)download the chromedriver that matches your Chrome version
+https://chromedriver.chromium.org/downloads
+Update the path to this chromedriver in chronogolf.py.
+3) run the script help option for usage
